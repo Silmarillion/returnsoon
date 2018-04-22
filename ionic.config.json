@@ -1,0 +1,8 @@
+{
+  "name": "returnsoon",
+  "app_id": "a374bb40",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
